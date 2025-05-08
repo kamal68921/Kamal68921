@@ -1,57 +1,5 @@
-<!DOCTYPE html>
-<html lang="ar" dir="rtl">
-<head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-    <title>السيرة الذاتية - كمال</title>
-    <style>
-        body {
-            font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
-            background-color: #f0f0f0;
-            margin: 0;
-            padding: 0;
-        }
-        header {
-            background-color: #2c3e50;
-            color: white;
-            padding: 20px;
-            text-align: center;
-        }
-        section {
-            background-color: white;
-            max-width: 800px;
-            margin: 20px auto;
-            padding: 30px;
-            border-radius: 10px;
-            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
-        }
-        h2 {
-            color: #2c3e50;
-            border-bottom: 2px solid #3498db;
-            padding-bottom: 5px;
-        }
-        a {
-            color: #2980b9;
-            text-decoration: none;
-            font-weight: bold;
-        }
-        a:hover {
-            text-decoration: underline;
-        }
-        img.certificate {
-            display: block;
-            margin-top: 10px;
-            width: 100%;
-            max-width: 700px;
-            border-radius: 8px;
-            box-shadow: 0 2px 4px rgba(0,0,0,0.2);
-        }
-    </style>
-</head>
-<body>
-
 <header>
-    <h1>الصيدلاني كمال</h1>
+    <h1>الدكتور كمال</h1>
     <p>حاصل على الشهادة الجامعية في الصيدلة</p>
 </header>
 
@@ -59,11 +7,11 @@
     <h2>المؤهلات العلمية</h2>
     <ul>
         <li>
-            <a href="secondary-certificate.jpg" target="_blank">شهادة الثانوية العامة</a>
+           
             <img src="secondary-certificate.jpg" alt="شهادة الثانوية العامة" class="certificate">
         </li>
         <li>
-            <a href="university-certificate.jpg" target="_blank">شهادة جامعية في الصيدلة</a>
+           
             <img src="university-certificate.jpg" alt="شهادة جامعية" class="certificate">
         </li>
     </ul>

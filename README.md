@@ -1,33 +1,26 @@
-<header>
-  <h1> د/ كمال الشخظه </h1>
-  <img src="kamal.jpg" alt="صورة كمال الشخصية" class="profile-pic">
-  <p>حاصل على شهادة البكالوريوس في الصيدلة</p>
-</header>
+<p align="center">
+  <img src="kamal.jpg" width="150" style="border-radius: 50%;" />
+</p>
 
-<section>
-  <h2>المؤهلات العلمية</h2>
-  <ul>
-    <li>
-      <a href="secondary-certificate.jpg" target="_blank">شهادة الثانوية العامة</a>
-      <img src="secondary-certificate.jpg" alt="شهادة الثانوية العامة" class="certificate">
-    </li>
-    <li>
-      <a href="university-certificate.jpg" target="_blank">شهادة جامعية في الصيدلة</a>
-      <img src="university-certificate.jpg" alt="شهادة جامعية" class="certificate">
-    </li>
-  </ul>
-</section>
+<h1 align="center"> د/ كمال الشخظه</h1>
 
-<section>
-  <h2>المجال المهني</h2>
-  <p>صيدلاني متخصص في تقديم الاستشارات الدوائية ومتابعة الحالات الصحية للمرضى. لديه خبرة عملية في الصيدليات المجتمعية، ويعمل على توفير حلول دوائية فعالة وآمنة.</p>
-</section>
+<p align="center">صيدلاني حاصل على شهادة البكالوريوس في الصيدلة</p>
 
-<section>
-  <h2>معلومات التواصل</h2>
-  <p>البريد الإلكتروني: <a href="mailto:kamalalshakhzah96@gmail.com">kamalalshakhzah96@gmail.com</a></p>
-  <p>رقم الهاتف: <a href="tel:+967777768921">+967 777768921</a></p>
-</section>
+---
 
-</body>
-</html>
+### المؤهلات العلمية:
+
+- شهادة الثانوية العامة  
+  [عرض الشهادة](secondary-certificate.jpg)
+
+- شهادة جامعية في الصيدلة  
+  [عرض الشهادة](university-certificate.jpg)
+
+---
+
+### معلومات التواصل:
+
+- البريد الإلكتروني: [kamalalshakhzah96@gmail.com](mailto:kamalalshakhzah96@gmail.com)  
+- رقم الهاتف: [+967 777768921](tel:+967777768921)
+
+---

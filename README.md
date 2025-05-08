@@ -1,19 +1,15 @@
 <header>
-    <h1>الدكتور كمال</h1>
+    <h1>الصيدلاني كمال</h1>
     <p>حاصل على الشهادة الجامعية في الصيدلة</p>
 </header>
 
 <section>
     <h2>المؤهلات العلمية</h2>
     <ul>
-        <li>
-           
-            <img src="secondary-certificate.jpg" alt="شهادة الثانوية العامة" class="certificate">
-        </li>
-        <li>
-           
-            <img src="university-certificate.jpg" alt="شهادة جامعية" class="certificate">
-        </li>
+        <li>شهادة الثانوية العامة</li>
+        <img src="secondary-certificate.jpg" alt="شهادة الثانوية العامة" class="certificate">
+        <li>شهادة جامعية في الصيدلة</li>
+        <img src="university-certificate.jpg" alt="شهادة جامعية" class="certificate">
     </ul>
 </section>
 
